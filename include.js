@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'animation_doo',
+    pageLink: './Art/animation_doo/index.html',
+    imageLink: './Art/Joy/animation_doo/boxgif.mp4',
+    author: 'Debrahdoo',
+    githubLink: 'https://github.com/debrahdoo'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+

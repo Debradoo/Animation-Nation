@@ -1,0 +1,17 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation: move 2s infinite alternate;
+  }
+  
+  @keyframes move {
+    0% {
+      left: 0;
+    }
+    
+    100% {
+      left: 200px;
+    }
+  }
